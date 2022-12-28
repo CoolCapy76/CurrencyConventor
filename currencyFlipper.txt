@@ -1,0 +1,4 @@
+ British Pounds : 2222.22
+ Euro : 1960.78
+ American dollar : 1886.79
+ Japanese Yen : 73570
